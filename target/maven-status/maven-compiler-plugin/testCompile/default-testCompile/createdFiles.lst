@@ -1,0 +1,15 @@
+stepDefinitions\SwagLabPageStepDefinition.class
+pageObjects\OffersPage.class
+stepDefinitions\LandingPageStepDefinition.class
+utils\TestContextSetup.class
+cucumberOptions\JunitTestRunnerTest.class
+pageObjects\CheckoutPage.class
+pageObjects\PageObjectManager.class
+utils\GenericUtils.class
+stepDefinitions\CheckoutPageStepDefinition.class
+stepDefinitions\Hooks.class
+pageObjects\LandingPage.class
+utils\TestBase.class
+utils\JACOCORunner.class
+stepDefinitions\OfferPageStepDefinition.class
+pageObjects\SwagLabPage.class
